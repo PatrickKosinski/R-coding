@@ -76,6 +76,6 @@ validation_4 <- sum(test_data_overall_trigrams_prediction$correct/1000)*100
 
 
 # Why does a low gamma leads to sligthly higher correctness of predictions?
-# the slower the gamma, the more probability mass lies on observed bigrams
+# the lower the gamma, the more probability mass lies on observed bigrams
 # and trigrams
 
