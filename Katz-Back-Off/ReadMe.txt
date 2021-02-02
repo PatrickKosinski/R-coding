@@ -1,7 +1,7 @@
 Patrick Kosinski 2021/02/01
 
 This github-repository shows every part of the implementation of the Katz-Back-Off word prediction model. This was part of coursera's data science capstone.
-Due to copyright concerns, I decided to not upload the data.
+Due to copyright concerns, I decided to not upload the data. For some theoretical background on Katz-Back-Off, please refer to https://rpubs.com/PatrickKosinski91/719470
 
 The shiny app can be found under the following link:
 
@@ -16,3 +16,5 @@ The repository is structured as follows:
 - 3_0_validation: The third step was to do a quick validation of the model parametrization. Here, I used the test data set. 
 
 - 4_0_shiny_app: Here, "everything has been put together". You find the implementation of the final data product. Please find the link to the data product above.
+
+
